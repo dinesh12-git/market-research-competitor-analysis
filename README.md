@@ -66,6 +66,12 @@ HMR Biriyani Restaurant shows a relatively short estimated
 delivery time in the collected sample, while some higher-priced
 restaurants have longer delivery estimates.
 
+## 📊 Price Comparison Chart
+
+![Coimbatore Biryani Price Comparison](coimbatore_biryani_price_comparison.png)
+
+The chart compares the listed biryani prices across the selected Coimbatore restaurants.
+
 ## 💡 Business Insights
 
 - Competitive pricing can help restaurants attract
