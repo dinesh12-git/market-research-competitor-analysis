@@ -1,0 +1,11 @@
+Restaurant,Dish,Price_INR,Rating,Delivery_Time_Min,Price_Position
+Central Biryani,Chicken Biryani,130,4.2,22,Lowest
+Sri Amman Mess,Chicken Biryani,199,4.1,39,Low
+The Side Dish Company,Chicken Biryani,219,4.2,24,Low
+Abitha Biriyani Hotel,Chicken Biriyani,234,4.3,24,Mid
+Thalassery Restaurant,Chicken Dum Biryani,275,4.5,25,Mid
+HMR Biriyani Restaurant,Hmr Chicken Biryani,270,4.5,9,Mid
+Night Lion by Madhampatty Pakashala,Chicken Biryani,344,3.9,46,High
+Ponni Restaurant,Chicken Briyani,330.6,4.1,19,High
+Nagerkovil Arya Bhavan,AB Special Dum Briyani,350,4.5,23,High
+Yadha Foods,Homemade Dum Chicken Biryani,235,4.7,55,Mid
